@@ -33,7 +33,7 @@
     "domain": {
       "description": "Heroku application domain Example: https://newdlstar.herokuapp.com",
       "required": "true",
-      "value": "https://newfastlink7.osc-fr1.scalingo.io/"
+      "value": "https://parsfp.osc-fr1.scalingo.io"
     }
   }
 }
